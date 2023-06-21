@@ -3,7 +3,8 @@ margin: 0;
 padding: 0;
 }
 .cabecalho{
-    background-color: #05312c;
+    background-color: #726ae4;
+    color: white;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -13,3 +14,8 @@ padding: 0;
     display: inline-block;
     padding: 0 25px;
 }
+.escola-imagem{
+    width: 25%;
+}
+.escola{
+    background-image: linear;
